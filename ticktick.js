@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-http-response https:\/\/dida365\.com\/api\/v2\/user\/status requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ddqd.js
+http-response https:\/\/dida365\.com\/api\/v2\/user\/status requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/poisonoff/NobyDa-Script/master/ticktick.js
 
 [mitm] 
 
