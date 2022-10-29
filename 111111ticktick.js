@@ -11,7 +11,7 @@ TG频道群：https://t.me/py996
 使用声明：⚠️此脚本仅供学习与交流，请勿转载与贩卖！⚠️⚠️⚠️
 *******************************
 [rewrite_local]
-http-response https:\/\/dida365\.com\/api\/v2\/user\/status requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/poisonoff/NobyDa-Script/master/ticktick.js
+http-response https:\/\/dida365\.com\/api\/v2\/user\/status requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/poisonoff/NobyDa-Script/master/111111ticktick.js
 [mitm] 
 hostname = dida365.com
 *******************************/
