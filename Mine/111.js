@@ -11,7 +11,7 @@
 
 [rewrite_local]
 
-^https:\/\/cubox\.pro\/c\/api\/userInfo url script-response-body https://raw.githubusercontent.com/poisonoff/Script/master/Mine/CuboxPRO.js
+http-response https:\/\/cubox\.pro\/c\/api\/userInfo requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/poisonoff/Script/master/Mine/111.js
 
 [mitm] 
 
