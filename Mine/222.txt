@@ -13,7 +13,7 @@ TG频道群：https://t.me/py996
 
 *******************************
 
-[rewrite_local]
+[script]
 
 http-response ^https:\/\/dida365\.com\/api\/v2\/user\/status requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/poisonoff/Script/master/Mine/222.js
 
