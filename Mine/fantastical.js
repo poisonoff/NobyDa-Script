@@ -26,7 +26,7 @@ if(url.indexOf('details')!=-1){
 		"uuid": "f1da7c78-e964-4367-915c-886edc794959",
 		"subscription_type": "AppStore",
 		"is_expired": false,
-		"trial": true
+		"trial": false
   };
 }
 
@@ -36,7 +36,7 @@ if(url.indexOf('appstore-receipt')!=-1){
 	obj.expiration="2099-12-31T16:49:37.000000Z";
 	obj.subscription_type="AppStore";
 	obj.is_expired=false;
-	obj.trial=true;
+	obj.trial=false;
 }
 
 $done({body:JSON.stringify(obj)});
