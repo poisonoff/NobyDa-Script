@@ -1,10 +1,10 @@
 /*
 Gyroscope unlock pro (Script author: @Maasea )
 Surge:
-http-response ^https:\/\/api\.gyrosco\.pe\/v1\/account\/$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/gyroscope.js
+http-response ^https:\/\/api\.gyrosco\.pe\/v1\/account\/$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/poisonoff/Script/master/Mine/Gyroscope%20unlock%20pro.js
 
 QuantumultX:
-^https:\/\/api\.gyrosco\.pe\/v1\/account\/$ url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/gyroscope.js
+^https:\/\/api\.gyrosco\.pe\/v1\/account\/$ url script-response-body https://raw.githubusercontent.com/poisonoff/Script/master/Mine/Gyroscope%20unlock%20pro.js
 
 QX & Surge MITM = api.gyrosco.pe
 */
