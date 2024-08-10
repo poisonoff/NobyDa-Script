@@ -1,5 +1,5 @@
 /*
-https://tapbots.com/ivory/verify_subscription url script-response-body tweetbotcopy.js
+https://tapbots.com/verify_subscription url script-response-body tweetbotcopy.js
 
 hostname=*.tapbots.com
 */
