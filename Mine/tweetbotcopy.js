@@ -1,7 +1,7 @@
 /*
-https://subscription.tapbots.net/Ivory/verify_subscription url script-response-body tweetbotcopy.js
+https://subscription.tapbots.com/ivory/verify_subscription url script-response-body tweetbotcopy.js
 
-hostname=*.tapbots.net
+hostname=*.tapbots.com
 */
 
 let obj = JSON.parse($response.body);
